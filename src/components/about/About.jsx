@@ -1,7 +1,7 @@
 import './about.css'
 import ME from '../../assets/me-about-2.jpg'
-import { FiAward, FiUsers } from 'react-icons/fi'
-import { AiFillFolderOpen } from 'react-icons/ai'
+/* import { FiAward, FiUsers } from 'react-icons/fi'
+import { AiFillFolderOpen } from 'react-icons/ai' */
 const About = () => {
   return (
     <div className="section" id="about">
