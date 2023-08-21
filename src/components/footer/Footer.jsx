@@ -1,8 +1,8 @@
 import './footer.css'
 import { AiOutlineLinkedin, AiOutlineFacebook, } from 'react-icons/ai'
-import { FiTwitter, FiGithub, FiInstagram } from 'react-icons/fi'
-import { FaTiktok } from 'react-icons/fa'
-import { SiMyanimelist } from 'react-icons/si'
+import {  FiGithub } from 'react-icons/fi'
+// import { FaTiktok } from 'react-icons/fa'
+// import { SiMyanimelist } from 'react-icons/si'
 
 const Footer = () => {
   return (
