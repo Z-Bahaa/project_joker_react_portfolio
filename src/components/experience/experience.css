@@ -10,8 +10,8 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
   gap: 2rem;
-  margin-inline: 8rem;
   margin-bottom: 3rem;
 }
 
@@ -41,6 +41,7 @@
   align-items: center;
   justify-content: flex-start;
   padding: 1.2rem;
+  width: 95%;
 }
 
 .history__container>div .image-container{
