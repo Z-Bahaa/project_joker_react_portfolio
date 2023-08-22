@@ -19,7 +19,7 @@ const projects = [
     id: 4,
     img: IMG4,
     title: 'Ezztate: Real Estate App',
-    tech: 'NextJS, Vanilla CSS, Axios',
+    tech: 'NextJS, Vanilla CSS, RapidApi',
     github: 'https://github.com/Z-Bahaa/project_ezztate',
     demo: 'https://ezztate.netlify.app/',
     date: 2021,
