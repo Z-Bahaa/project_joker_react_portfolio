@@ -1,5 +1,5 @@
 import './about.css'
-import ME from '../../assets/me-3.png'
+import ME from '../../assets/5.png'
 /* import { FiAward, FiUsers } from 'react-icons/fi'
 import { AiFillFolderOpen } from 'react-icons/ai' */
 const About = () => {
