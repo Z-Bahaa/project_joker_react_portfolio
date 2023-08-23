@@ -123,6 +123,7 @@ const experience = [
       city: 'Sandeep Jain ',
       country: 'GeeksForGeeks',
     },
+    certificate: "https://drive.google.com/file/d/1ynXMs50jPQ2HIz0LjcMjGyGPgODuoeGG/view",
     url: 'https://www.geeksforgeeks.org/courses/dsa-self-paced',
   },
   {
@@ -134,6 +135,7 @@ const experience = [
       city: 'Sandeep Jain ',
       country: 'GeeksForGeeks',
     },
+    certificate: "https://drive.google.com/file/d/1soMxeexq1m7bs4j3ul7ptVPYJbmCoXBQ/view",
     url: 'https://www.geeksforgeeks.org/courses/cpp-programming-basic-to-advanced',
   },
   {

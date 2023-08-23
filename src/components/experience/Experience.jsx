@@ -22,11 +22,17 @@ const Experience = () => {
                   <p> • {e.address.country}</p>
                 </section>
               </div>
-              <a href={e.url} target="_blank" rel="noreferrer">
-                <button className="btn btn-primary" > 
-                  <h1>visit company</h1>
-                </button>
-              </a>
+              <div className="experience_cta">
+              {e.certificate ? ( <a className="btn" href={e.certificate} target='_blank' rel="noreferrer">
+                <h1>view certificate</h1>
+              </a>) : ""}
+                <a href={e.url} target="_blank" rel="noreferrer">
+                  <button className="btn btn-primary" > 
+                    <h1>visit company</h1>
+                  </button>
+                </a>
+              </div>
+              
             </div>
           ))
         }

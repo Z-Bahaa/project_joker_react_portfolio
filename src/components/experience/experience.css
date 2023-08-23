@@ -35,6 +35,30 @@
   -o-transition: var(--transition);
 }
 
+.experience_cta {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  row-gap: .5rem;
+  width: fit-content;
+}
+
+.experience_cta  a{
+  /* width: 100%; */
+  width: max-content;
+}
+.experience_cta  a.btn{
+  text-align: center;
+  justify-content: center;
+  padding: .5rem;
+}
+
+.experience_cta  a.btn h1{
+  margin-bottom: -.4rem;
+}
+.experience_cta  .btn{
+  width: 100%;
+}
 .history__container>div {
   display: flex;
   flex-direction: row;
@@ -111,6 +135,7 @@
 .history__container>div .course-details-container  p {
   text-align: center;
   font-size: 1.1rem;
+  
   /* margin-bottom: 1rem; */
   color: var(--color-light);
 
@@ -120,6 +145,9 @@
   color: var(--color-white);
   min-width: fit-content;
 
+}
+.history__container>div button h1{
+  margin-bottom: -.4rem;
 }
 
 .experience__container>div h3 {
@@ -274,6 +302,9 @@
     gap: 1rem;
     padding: 0;
     margin: 0 4rem;
+  }
+  .experience_cta {
+    flex-direction: column;
   }
 
   .experience__container>div {
