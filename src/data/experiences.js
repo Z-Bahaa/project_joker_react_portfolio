@@ -2,7 +2,7 @@ import GFG from '../assets/GFG.png'
 import UD from '../assets/udemy.png'
 import PM from '../assets/paymasr.jpg'
 import BL from '../assets/BL.jpg'
-import FCC from '../assets/FCC.svg'
+// import FCC from '../assets/FCC.svg'
 
 const skills = [
 {
@@ -170,39 +170,6 @@ const experience = [
       country: 'Udemy',
     },
     url: 'https://www.udemy.com/course/react-2nd-edition/',
-  },
-  {
-    type: 'course',
-    image: FCC,
-    date: 'Jan 2022 - Mars 2022 (Course)',
-    title: 'Front End Development Libraries',
-    address: {
-      city: '',
-      country: 'FreeCodeCamp',
-    },
-    url: 'https://www.freecodecamp.org/learn/front-end-development-libraries/',
-  },
-  {
-    type: 'course',
-    image: FCC,
-    date: 'Jan 2022 - Mars 2022 (Course)',
-    title: 'JavaScript Algorithms and Data Structures',
-    address: {
-      city: '',
-      country: 'FreeCodeCamp',
-    },
-    url: 'https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/',
-  },
-  {
-    type: 'course',
-    image: FCC,
-    date: 'Jan 2022 - Mars 2022 (Course)',
-    title: 'Responsive Web Design',
-    address: {
-      city: '',
-      country: 'FreeCodeCamp',
-    },
-    url: 'https://www.freecodecamp.org/learn/2022/responsive-web-design/',
   },
 ]
 
