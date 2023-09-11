@@ -39,7 +39,7 @@ const About = () => {
           </div> */}
 
           <p>
-          Confident young professional with a passion for learning and development. eager to leverage education and training in the software development space to support the growth and success of a High performing organization. Strong track record of settling effective goals and leading teams to achieve those goals. committed to continuous improvement and driving team success.
+          Confident young professional with a passion for knowledge and improvement. eager to leverage education and training in the software development space to support the growth and success of a High performing organization. Strong track record of settling effective goals and leading teams to achieve those goals. committed to continuous improvement and driving team success.
           </p>
 
           <a href="#contact" className="btn btn-primary">Let's Talk</a>
