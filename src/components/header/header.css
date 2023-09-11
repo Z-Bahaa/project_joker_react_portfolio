@@ -20,7 +20,8 @@
 .header__socials {
   display: flex;
   flex-direction: column;
-  position: fixed;
+  position: absolute;
+z-index: 1000;
   left: 0;
   bottom: 2rem;
   gap: 1rem;
