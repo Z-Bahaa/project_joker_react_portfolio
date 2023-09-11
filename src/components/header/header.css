@@ -82,5 +82,14 @@
   /* padding: 5rem 1.5rem 1.5rem 1.5rem; */
 }
 
+.header__socials {
+flex-direction: row;
+width: 100%;
+align-items: center;
+}
+ .header__socials::after {
+display: none;
+}
+
 
 }
