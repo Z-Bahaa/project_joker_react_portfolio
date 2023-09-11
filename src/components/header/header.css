@@ -85,7 +85,7 @@
 .header__socials {
 flex-direction: row;
 width: 100%;
-align-items: center;
+justify-content: center;
 }
  .header__socials::after {
 display: none;
