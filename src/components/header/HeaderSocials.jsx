@@ -5,7 +5,7 @@ import {SiLeetcode} from 'react-icons/si';
 
 
 const HeaderSocials = () => {
-let s = "30px"
+let s = "30px";
   return (
     <div className="header__socials">
       <a href='https://leetcode.com/zizobahaapersonal/' target='_blank'  rel="noreferrer"><SiLeetcode size=s/></a>
