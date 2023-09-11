@@ -5,12 +5,13 @@ import {SiLeetcode} from 'react-icons/si';
 
 
 const HeaderSocials = () => {
+let size = "30px"
   return (
     <div className="header__socials">
-      <a href='https://leetcode.com/zizobahaapersonal/' target='_blank'  rel="noreferrer"><SiLeetcode /></a>
-      <a href='https://www.linkedin.com/in/zizo-bahaa' target='_blank'  rel="noreferrer"><AiOutlineLinkedin /></a>
-      <a href='https://github.com/Z-Bahaa' target='_blank'  rel="noreferrer"><FiGithub /></a>
-      <a href='https://www.facebook.com/profile.php?id=100071918118359' target='_blank'  rel="noreferrer"><AiOutlineFacebook /></a>
+      <a href='https://leetcode.com/zizobahaapersonal/' target='_blank'  rel="noreferrer"><SiLeetcode size/></a>
+      <a href='https://www.linkedin.com/in/zizo-bahaa' target='_blank'  rel="noreferrer"><AiOutlineLinkedin size /></a>
+      <a href='https://github.com/Z-Bahaa' target='_blank'  rel="noreferrer"><FiGithub size/></a>
+      <a href='https://www.facebook.com/profile.php?id=100071918118359' target='_blank'  rel="noreferrer"><AiOutlineFacebook size /></a>
     </div>
   )
 }
