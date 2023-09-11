@@ -63,7 +63,7 @@
   -ms-transform: rotate(90deg);
   -o-transform: rotate(90deg);
   font-weight: 300;
-  font-size: 0.9rem
+  font-size: 1.1rem
 }
 
 @media screen and (max-width: 1024px) {
