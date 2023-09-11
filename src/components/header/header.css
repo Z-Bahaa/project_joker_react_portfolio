@@ -55,7 +55,8 @@ z-index: 1000;
 } */
 
 .scroll__down {
-  position: absolute;
+  position: none;
+display: none;
   right: 0rem;
   bottom: 5rem;
   transform: rotate(90deg);
