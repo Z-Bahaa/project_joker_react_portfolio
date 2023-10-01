@@ -12,7 +12,7 @@ const projects = [
     title: 'Vairu: Affordable UGC videos for all Brands',
     tech: 'ReactJs, Vanilla CSS, ViteJS, Bubble.io',
     github: 'https://github.com/Z-Bahaa/vairu-ui.git',
-    demo: 'https://vairu.app/version-test',
+    demo: 'https://vairu.app',
     date: 2023,
   },
   {
