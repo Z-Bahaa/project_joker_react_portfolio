@@ -22,7 +22,7 @@ const projects = [
     title: 'Vairu: Affordable UGC videos for all Brands',
     tech: 'no-code development platforms, stripe',
     github: 'https://github.com/Z-Bahaa/vairu-ui.git',
-    demo: 'https://vairu.app/version-test',
+    demo: 'https://vairu.app/',
     date: 2023,
   },
   {
