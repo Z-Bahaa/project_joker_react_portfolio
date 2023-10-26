@@ -115,6 +115,17 @@ const skills = [
 
 const experience = [
   {
+    type: 'job',
+    image: PM,
+    date: 'Aug 2022 - Present ',
+    title: 'FullStack Developer || Product Manager',
+    address: {
+      city: 'PayMasr ',
+      country: 'Cairo, EG',
+    },
+    url: 'https://www.linkedin.com/company/paymasr/',
+  },
+  {
     type: 'course',
     image: GFG,
     date: 'Jun 2023 - Aug 2023 (Course)',
@@ -137,17 +148,6 @@ const experience = [
     },
     certificate: "https://drive.google.com/file/d/1soMxeexq1m7bs4j3ul7ptVPYJbmCoXBQ/view",
     url: 'https://www.geeksforgeeks.org/courses/cpp-programming-basic-to-advanced',
-  },
-  {
-    type: 'job',
-    image: PM,
-    date: 'Aug 2022 - Feb 2023 (Apprenticeship)',
-    title: 'Product Manager || MERN Stack Developer',
-    address: {
-      city: 'PayMasr ',
-      country: 'Cairo, EG',
-    },
-    url: 'https://www.linkedin.com/company/paymasr/',
   },
   {
     type: 'job',

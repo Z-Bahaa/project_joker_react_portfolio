@@ -11,7 +11,7 @@ const projects = [
     id: 8,
     img: IMG8,
     title: 'Instalog: event log for business management',
-    tech: 'ReactJs, tailwindCSS, ViteJS',
+    tech: 'ReactJs, tailwindCSS, EpressJS, PostgreSQL',
     github: 'https://github.com/Z-Bahaa?tab=repositories&q=instalog&type=&language=&sort=',
     demo: 'https://instalog-exy8.onrender.com/',
     date: 2023,
