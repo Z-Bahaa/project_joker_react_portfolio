@@ -117,8 +117,19 @@ const experience = [
   {
     type: 'job',
     image: PM,
-    date: 'Aug 2022 - Present ',
+    date: 'Jan 2023 - Present ',
     title: 'FullStack Developer || Product Manager',
+    address: {
+      city: 'PayMasr ',
+      country: 'Cairo, EG',
+    },
+    url: 'https://www.linkedin.com/company/paymasr/',
+  },
+  {
+    type: 'job',
+    image: PM,
+    date: 'Sep 2022 - Jan 20223 ',
+    title: 'Intern',
     address: {
       city: 'PayMasr ',
       country: 'Cairo, EG',
@@ -152,7 +163,7 @@ const experience = [
   {
     type: 'job',
     image: BL,
-    date: 'Jun 2022 - Jul 2022 (Contract)',
+    date: 'Jul 2022 - Sep 2022 (Contract)',
     title: 'Junior FrontEnd Developer',
     address: {
       city: 'Bottomless ',
